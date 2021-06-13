@@ -1,0 +1,15 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slitter.js",
+  "scripts": {
+    "split": "node tools/splitter"
+  },
+  "author": "TheClashFruit",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "split-file": "^2.2.2"
+  }
+}
