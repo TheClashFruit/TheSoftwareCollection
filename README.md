@@ -1,4 +1,7 @@
 # TheSoftwareCollection
+- [Discord](http://tsc.theclashfruit.ga/discord)
+  - [discord.com](http://discord.com)
+  - Imagine a place where you can belong to a school club, a gaming group, or a worldwide art community. Where just you and a handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
 - [Salad](http://tsc.theclashfruit.ga/salad)
   - [salad.io](http://salad.io)
   - Salad turns downtime into downloads. Run Salad whenever you're away from the keys to score games, gift cards, subscriptions, DLC, and more at the Salad Storefront.
