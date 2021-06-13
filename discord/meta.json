@@ -1,0 +1,16 @@
+{
+  "name": "Discord",
+  "website": "http://discord.com",
+  "version": "undefined",
+  "keywords": [
+    "discord",
+    "Discord"
+  ],
+  "split_names": {
+    "windows": [
+      "DiscordSetup.exe.sf-part1",
+      "DiscordSetup.exe.sf-part2",
+      "DiscordSetup.exe.sf-part3"
+    ]
+  }
+}
