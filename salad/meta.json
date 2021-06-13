@@ -1,8 +1,16 @@
 {
   "name": "Salad",
   "website": "http://salad.io",
+  "version": "0.5.4",
   "keywords": [
     "salad",
     "Salad"
-  ]
+  ],
+  "split_names": {
+    "windows": [
+      './salad-${version}.exe.sf-part1',
+      './salad-${version}.exe.sf-part2',
+      './salad-${version}.exe.sf-part3'
+    ]
+  }
 }
