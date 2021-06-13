@@ -8,9 +8,9 @@
   ],
   "split_names": {
     "windows": [
-      "./salad-${version}.exe.sf-part1",
-      "./salad-${version}.exe.sf-part2",
-      "./salad-${version}.exe.sf-part3"
+      "salad-${version}.exe.sf-part1",
+      "salad-${version}.exe.sf-part2",
+      "salad-${version}.exe.sf-part3"
     ]
   }
 }
