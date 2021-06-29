@@ -3,7 +3,8 @@
   "website": "http://salad.io",
   "version": "0.5.5",
   "version_history": [
-    "0.5.5", "0.5.4"
+    "0.5.4",
+    "0.5.5"
   ],
   "keywords": [
     "salad",
